@@ -7,7 +7,7 @@ const HeroSection = () => {
   return (
     <Hero>
       <HeroLeft>
-        <Title>I'M YERBOLAT</Title>
+        <Title>I'M YERBOLAT!</Title>
         <Description>MERN Stack Developer</Description>
       </HeroLeft>
       <HeroRight>
